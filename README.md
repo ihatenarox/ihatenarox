@@ -5,8 +5,8 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hadi-4100&theme=dark" weight=41% height="192px" alt="GitHub Stats">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hadi-4100&theme=dark" alt="Top Languages" height="192px">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ihatenarox&theme=dark" weight=41% height="192px" alt="GitHub Stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ihatenarox&theme=dark" alt="Top Languages" height="192px">
 </p>
 
  <img src="https://discord.c99.nl/widget/theme-4/1025775971699281960.png" alt="YATO#0018" />
