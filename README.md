@@ -14,7 +14,7 @@
 
 ## 🔗 **Connect with Me**
 <p align="center">
-  <a href="https://discord.com/users/697435544812257342">
-    <img src="https://discord-readme-badge.vercel.app/api?id=697435544812257342">
+  <a href="https://discord.com/users/1025775971699281960">
+    <img src="https://discord-readme-badge.vercel.app/api?id=1025775971699281960">
   </a>
 </p>
