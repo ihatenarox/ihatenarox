@@ -10,21 +10,6 @@
  <img src="https://discord.c99.nl/widget/theme-4/1025775971699281960.png" alt="YATO#0018" />
 
 
-<h1 align="center">What's up! 👋</h1>
-
-<p align="center">
-  I'm a MIS student and a passionate software developer.
-  I primarily enjoy coding in Discord Bots, Web Development, and software projects.
-.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/hadi-4100?label=Followers&style=flat-square" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/hadi-4100?affiliations=OWNER&style=flat-square&label=Stars" alt="GitHub Stars">
-  <img src="https://custom-icon-badges.demolab.com/badge/OS-Windows-%230078D6?style=flat-square&logo=windows11&logoColor=white" alt="Windows">
-  <img src="https://custom-icon-badges.demolab.com/badge/Editor-Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=flat-square" alt="VSC">
-</p>
-
 ## 🔧 **Technologies & Tools**
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40">
